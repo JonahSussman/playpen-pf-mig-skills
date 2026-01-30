@@ -131,6 +131,8 @@ Continue the compare-fix loop until:
 
 > [!important] Please make sure that the level of accessibility and usability is maintained or improved during the migration process. For example, ensure that there are no light fonts on light backgrounds or low contrast elements that could hinder readability, unless present in the original design.
 
+> [!important] Make sure that the components are functioning as expected after migration. Test interactive elements such as buttons, forms, and navigation to ensure they work correctly in the PF6 version.
+
 ---
 
 ## Step 6: Final Verification
